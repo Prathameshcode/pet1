@@ -2,11 +2,11 @@ var dog, happyDog, database,foodStock, dogImage, dogSound, House, FoodImage, Foo
 var foodS = 100;
 
 function preload()
-{
-  dogImage = loadImage("images/dogImg.png");
-  dogHappy = loadImage("images/dogImg1.png");
-  House= loadImage("images/images.jpg");
-  FoodImage = loadImage("images/download.jpg");
+
+  dogImage = loadImage("dogImg.png");
+  dogHappy = loadImage("dogImg1.png");
+  House= loadImage("images.jpg");
+  FoodImage = loadImage("download.jpg");
   
   
 }
